@@ -13,7 +13,7 @@
  	 #as training to let our system learn on new defects 
 
 # for more deatils watch this videos :
-	1- english:
-	https://www.youtube.com/watch?v=tzPqD7zuo8c&t=22s
-	2- Arabic:
-	https://www.youtube.com/watch?v=LGU4InIHReg
+# 1- english:
+https://www.youtube.com/watch?v=tzPqD7zuo8c&t=22s
+# 2- Arabic:
+https://www.youtube.com/watch?v=LGU4InIHReg
