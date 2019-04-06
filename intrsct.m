@@ -1,0 +1,2 @@
+function[result]=intrsct(x1,y1,w1,l1,x2,y2,w2,l2)
+result = between(x1,y1,x2,y2,x2+w2,y2+l2)||between(x1+w1,y1,x2,y2,x2+w2,y2+l2)||between(x1,y1+l1,x2,y2,x2+w2,y2+l2)||between(x1+w1,y1+l1,x2,y2,x2+w2,y2+l2);
