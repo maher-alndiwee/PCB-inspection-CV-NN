@@ -10,7 +10,7 @@
 	5- chose how you want to process the image :
 	 #as reference for the standarded templet of the circuit 
  	 #as tested for the under test PCBs
- 	 #as training to let our system learn on new defects 
+ 	 #as training to let our system learn from new defects 
 
 # for more deatils watch this videos :
 # 1- english:
